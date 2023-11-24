@@ -13,3 +13,19 @@ body {
 #start , #number_of_objects , #start {
     font-size: 20px;
 }
+
+canvas {
+    border:5px solid red;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+
+h2{
+    font-weight: bold;
+    color: red;
+}
+
+#input {
+    border-radius: 50px;
+    width: 200px;
+}
